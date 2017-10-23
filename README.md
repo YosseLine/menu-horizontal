@@ -6,7 +6,7 @@
 
 - Comprender a través de este ejemplo, cómo crear estructuras en la web con HTML y a darle estilos con CSS.
 
-- Entender la funcionalidad del posicionamiento flotante (float).
+- Entender la funcionalidad del posicionamiento flotante (*float*).
 
 - Aprender a usar pseudocódigos.
 
