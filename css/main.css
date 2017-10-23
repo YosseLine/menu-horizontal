@@ -13,6 +13,7 @@ ul{
   margin: 0;
   background: #2e2e2a;
   line-height: 45px;
+  /*Overflou es necesario a la hora de usar float*/
   overflow: auto;
 }
 
